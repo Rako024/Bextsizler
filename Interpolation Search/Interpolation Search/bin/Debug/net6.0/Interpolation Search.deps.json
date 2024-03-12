@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Interpolation Search/1.0.0": {
+        "runtime": {
+          "Interpolation Search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interpolation Search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
