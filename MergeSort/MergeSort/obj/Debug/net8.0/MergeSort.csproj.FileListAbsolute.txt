@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\obj\Debug\net8.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\obj\Debug\net8.0\MergeSort.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\obj\Debug\net8.0\MergeSort.AssemblyInfo.cs
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\obj\Debug\net8.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\obj\Debug\net8.0\MergeSort.sourcelink.json
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\bin\Debug\net8.0\MergeSort.exe
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\bin\Debug\net8.0\MergeSort.deps.json
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\bin\Debug\net8.0\MergeSort.runtimeconfig.json
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\bin\Debug\net8.0\MergeSort.dll
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\bin\Debug\net8.0\MergeSort.pdb
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\obj\Debug\net8.0\MergeSort.dll
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\obj\Debug\net8.0\refint\MergeSort.dll
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\obj\Debug\net8.0\MergeSort.pdb
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\obj\Debug\net8.0\MergeSort.genruntimeconfig.cache
+C:\Users\user\Desktop\Grup\Bextsizler\MergeSort\MergeSort\obj\Debug\net8.0\ref\MergeSort.dll
