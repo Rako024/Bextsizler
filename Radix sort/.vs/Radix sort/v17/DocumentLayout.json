@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rashid\\Desktop\\bextsizler\\Radix sort\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Grup\\Bextsizler\\Radix sort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB72820E-25AC-4788-9818-B1C89CCF9F40}|Radix sort\\Radix sort.csproj|c:\\users\\rashid\\desktop\\bextsizler\\radix sort\\radix sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB72820E-25AC-4788-9818-B1C89CCF9F40}|Radix sort\\Radix sort.csproj|solutionrelative:radix sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Grup\\Bextsizler\\Radix sort\\Radix sort\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Radix sort\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\bextsizler\\Radix sort\\Radix sort\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Grup\\Bextsizler\\Radix sort\\Radix sort\\Program.cs",
               "RelativeDocumentMoniker": "Radix sort\\Program.cs",
-              "ToolTip": "C:\\Users\\Rashid\\Desktop\\bextsizler\\Radix sort\\Radix sort\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Grup\\Bextsizler\\Radix sort\\Radix sort\\Program.cs",
               "RelativeToolTip": "Radix sort\\Program.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAA1wGAAAAAaAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAACIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T16:16:56.479Z",
               "EditorCaption": ""

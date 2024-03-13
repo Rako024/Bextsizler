@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Interpolation Search")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+092505d87b3f4208c8d3681b25e77294ad6ff9f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e0ad21cdd11a670781f232ef26322f163bb671e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Interpolation Search")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Interpolation Search")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

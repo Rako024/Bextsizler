@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rashid\\Desktop\\bextsizler\\Interpolation Search\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Grup\\Bextsizler\\Interpolation Search\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8442460D-C527-4AF9-9CD6-F290A62FB470}|Interpolation Search\\Interpolation Search.csproj|c:\\users\\rashid\\desktop\\bextsizler\\interpolation search\\interpolation search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8442460D-C527-4AF9-9CD6-F290A62FB470}|Interpolation Search\\Interpolation Search.csproj|solutionrelative:interpolation search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Grup\\Bextsizler\\Interpolation Search\\Interpolation Search\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interpolation Search\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rashid\\Desktop\\bextsizler\\Interpolation Search\\Interpolation Search\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Grup\\Bextsizler\\Interpolation Search\\Interpolation Search\\Program.cs",
               "RelativeDocumentMoniker": "Interpolation Search\\Program.cs",
-              "ToolTip": "C:\\Users\\Rashid\\Desktop\\bextsizler\\Interpolation Search\\Interpolation Search\\Program.cs",
-              "RelativeToolTip": "Interpolation Search\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Grup\\Bextsizler\\Interpolation Search\\Interpolation Search\\Program.cs*",
+              "RelativeToolTip": "Interpolation Search\\Program.cs*",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvycAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T20:07:44.194Z",
               "EditorCaption": ""
